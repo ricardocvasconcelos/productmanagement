@@ -7,7 +7,16 @@ A curated list of product management resources.
  - [ ] [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/ref=as_sl_pc_qf_sp_asin_til?tag=jefpatass-20&linkCode=w00&linkId=NX2UXYQEFAANOFPO&creativeASIN=1491904909) - Jeff Patton
  
 ## Podcasts 🎙️
+ - [ ] [Build With Maggie Crowley](https://podcasts.apple.com/us/podcast/build-with-maggie-crowley/id1445050691)
  - [ ] [Masters of Scale](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2)
+ - [ ] [Product Love](https://podcasts.apple.com/us/podcast/product-love/id1343610309)
+ - [ ] [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
 
-## Twitter accounts 📱
+## Twitter accounts 📱 
+ - [ ] Janna Bastow [@simplybastow](https://twitter.com/simplybastow)
  - [ ] John Cutler [@johncutlefish](https://twitter.com/johncutlefish)
+ - [ ] Marty Cagan [@cagan](https://twitter.com/cagan)
+ - [ ] Melissa Perri [@lissijean](https://twitter.com/lissijean)
+ - [ ] Pat Kua [@patkua](https://twitter.com/patkua)
+ - [ ] Shreyas Doshi [@shreyas](https://twitter.com/shreyas)
+ - [ ] Teresa Torres [@ttorres](https://twitter.com/ttorres)
