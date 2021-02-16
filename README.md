@@ -1,4 +1,4 @@
-# productmanagement
+# Product Management
 A curated list of product management resources.
 
 ## Books 📚
