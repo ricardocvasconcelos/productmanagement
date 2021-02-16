@@ -1,5 +1,4 @@
 # Product Management
-![Banner](banner.jpg)
 A curated list of product management resources.
 
 ## Books 📚
