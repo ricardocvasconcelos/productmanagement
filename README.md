@@ -4,6 +4,7 @@ A curated list of product management resources.
 ## Books 📚
  - [ ] [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.com/dp/111969129X/ref=cm_sw_r_tw_dp_SYAV4PTAQ6J03P6ZWBVB) - Marty Cagan
  - [ ] [Inspired - How to Create Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408) - Marty Cagan
+ - [ ] [Product-Led Growth: How to Build a Product That Sells Itself ]([https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408](https://www.amazon.com/Product-Led-Growth-Build-Product-Itself-ebook/dp/B07P6288ZF)) - Wes Bush
  - [ ] [Product Research Rules](https://www.oreilly.com/library/view/product-research-rules/9781492049463/) - C. Todd Lombardo, Aras Bilgen
  - [ ] [Product Roadmaps Relaunched](https://www.oreilly.com/library/view/product-roadmaps-relaunched/9781491971710/) - C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors
  - [ ] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
@@ -11,10 +12,10 @@ A curated list of product management resources.
  
 ## Podcasts 🎙️
  - [ ] [Acquired](https://www.acquired.fm/)
- - [ ] [Build With Maggie Crowley](https://podcasts.apple.com/us/podcast/build-with-maggie-crowley/id1445050691)
  - [ ] [Land of the Giants](https://www.vox.com/land-of-the-giants-podcast)
+ - [ ] [Lenny's Podcast](https://www.lennyspodcast.com)
  - [ ] [Masters of Scale](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2)
- - [ ] [Product Love](https://podcasts.apple.com/us/podcast/product-love/id1343610309)
+ - [ ] [Product Thinking](https://www.produxlabs.com/product-thinking)
  - [ ] [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
 
 ## Twitter accounts 📱 
