@@ -2,7 +2,7 @@
 A curated list of product management resources.
 
 ## Books 📚
- - [ ] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)) - Nicole Forsgren, Jez Humble, and Gene Kim
+ - [ ] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) - Nicole Forsgren, Jez Humble, and Gene Kim
  - [ ] [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) - Jez Humble and David Farley
  - [ ] [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.com/dp/111969129X/) - Marty Cagan
  - [ ] [Inspired - How to Create Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) - Marty Cagan
